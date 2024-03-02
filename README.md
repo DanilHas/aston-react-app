@@ -1,4 +1,4 @@
-![значок состояния рабочего процесса](https://github.com/DanilHas/aston-react-app/actions/workflows/github-actions.yml.badge.svg)
+[![GitHub Actions](https://github.com/DanilHas/aston-react-app/actions/workflows/github-actions.yml/badge.svg)](https://github.com/DanilHas/aston-react-app/actions/workflows/github-actions.yml)
 
 # React + TypeScript + Vite
 
