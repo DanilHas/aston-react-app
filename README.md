@@ -1,3 +1,5 @@
+![значок состояния рабочего процесса](https://github.com/DanilHas/aston-react-app/actions/workflows/github-actions.yml.badge.svg)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
